@@ -126,11 +126,11 @@ When the application is developed, users will be able to browse adoptable pets, 
 
 ## 📚 Project Documentation
 
-Detailed documentation will be available in the project's GitHub Wiki.
+Detailed documentation is available in the project's GitHub Wiki.
 
 **[Visit the Pawfect Match Wiki](../../wiki)**
 
-The Wiki will include:
+The Wiki includes:
 
 - Home and project overview
 - Installation and setup

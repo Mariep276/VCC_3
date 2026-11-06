@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+
+# Environment files
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/

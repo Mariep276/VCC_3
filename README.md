@@ -188,3 +188,10 @@ See the [LICENSE](LICENSE) file for details.
 **Every animal deserves safety, compassion, and a loving forever home.**
 
 Pawfect Match — *Where loving families and rescued pets find each other.*
+---
+
+## 📚 Project Wiki
+
+Explore the complete Pawfect Match documentation in our GitHub Wiki.
+
+👉 [Visit the Pawfect Match Wiki](https://github.com/Mariep276/VCC_3/wiki)
